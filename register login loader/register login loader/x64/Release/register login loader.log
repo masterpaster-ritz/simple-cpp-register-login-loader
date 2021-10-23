@@ -1,0 +1,7 @@
+﻿  main.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 175 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  register login loader.vcxproj -> C:\Users\mab82\Desktop\register login loader\x64\Release\register login loader.exe
